@@ -1,0 +1,10 @@
+body {
+    font-size: 20px;
+    color: white;
+}
+ p{
+    margin: 2%;
+ } 
+button{
+    border: solid gray;
+}
