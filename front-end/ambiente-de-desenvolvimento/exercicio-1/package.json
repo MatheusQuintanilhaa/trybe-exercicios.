@@ -1,0 +1,15 @@
+{
+  "name": "exercicio-1",
+  "version": "1.0.0",
+  "description": "primeiro exercicio de front-end",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "author": "Matheus",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.7.0",
+    "vite": "^3.2.3"
+  }
+}
